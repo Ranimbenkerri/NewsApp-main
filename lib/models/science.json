@@ -1,0 +1,185 @@
+{
+    "status": "ok",
+    "totalResults": 29,
+    "articles": [{
+        "source": { "id": null, "name": "Gizmodo.com" },
+        "author": "Isaac Schultz",
+        "title": "Images Show Fresh Crater on Mars Caused by Major Meteorite Impact - Gizmodo",
+        "description": "The impact was intense enough that NASA's InSight lander detected the seismic waves from over 2,000 miles away.",
+        "url": "https://gizmodo.com/meteorite-impact-crater-mars-1849715643",
+        "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/c37febaf628295a76a83ff0d0f9fb5ec.png",
+        "publishedAt": "2022-10-28T19:00:00Z",
+        "content": "On December 24, 2021the day before the Webb Space Telescope would launcha rock hurtled through the thin Martian atmosphere and slammed into the ground, leaving a crater nearly 500 feet across. This w… [+2331 chars]"
+    }, {
+        "source": { "id": null, "name": "Space.com" },
+        "author": "Elizabeth Howell",
+        "title": "James Webb Space Telescope snaps new, super-spooky image of Pillars of Creation - Space.com",
+        "description": "\"Thousands of stars that exist in this region disappear from view.\"",
+        "url": "https://www.space.com/james-webb-space-telescope-pillars-creation-miri",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/f9LsQ7Foy2iB8SJzg478kW-1200-80.jpg",
+        "publishedAt": "2022-10-28T17:36:49Z",
+        "content": "This gloomy view of an iconic space dust structure is just the Halloween mood we need.\r\nJames Webb Space Telescope scientists have released a second view of the iconic Pillars of Creation, this one p… [+2485 chars]"
+    }, {
+        "source": { "id": null, "name": "Space.com" },
+        "author": "Robert Lea",
+        "title": "Venus-bound NASA instrument preparing to brave the harsh atmosphere - Space.com",
+        "description": "The one-way trip should help scientists crack the planet's mysteries.",
+        "url": "https://www.space.com/venus-davinci-atmospheric-probe-instrument",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/WAHACFLeWBNz2wcKTddKUN-1200-80.jpg",
+        "publishedAt": "2022-10-28T16:00:39Z",
+        "content": "NASA scientists are preparing to paint the most detailed picture to date of the atmosphere of Venus when the aptly named DAVINCI — or Deep Atmosphere Venus Investigation of Noble Gases, Chemistry, an… [+4705 chars]"
+    }, {
+        "source": { "id": null, "name": "Kennedyspacecenter.com" },
+        "author": "",
+        "title": "ROCKET LAUNCH SpaceX Falcon Heavy USSF-44 - Kennedy Space Center",
+        "description": null,
+        "url": "https://www.kennedyspacecenter.com/launches-and-events/events-calendar/2022/november/rocket-launch-spacex-falcon-heavy-ussf-44",
+        "urlToImage": null,
+        "publishedAt": "2022-10-28T15:48:31Z",
+        "content": "MISSION:\r\nIt's been more than 40 months since the last Falcon Heavy launch! Make sure to reserve your spot to see the mighty rocket take flight.\r\nA SpaceX Falcon Heavy rocket will launch the USSF-44 … [+696 chars]"
+    }, {
+        "source": { "id": null, "name": "Space.com" },
+        "author": "Elizabeth Howell",
+        "title": "The 25 scariest spaceflight moments show dangers in orbit and beyond - Space.com",
+        "description": "While nobody got hurt in any of these incidents, these scary moments show the value of good astronaut training.",
+        "url": "https://www.space.com/scariest-moments-in-spaceflight-dangers-in-orbit-beyond",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/De8fcLpzvwfBGfqzabqGZ3-1200-80.jpg",
+        "publishedAt": "2022-10-28T15:00:05Z",
+        "content": "Skylab's damage after launch is apparent in this picture, especially with the solar array that had not deployed (right).\r\n1973: Astronauts take tricky spacewalks to repair damaged NASA Skylab space s… [+1039 chars]"
+    }, {
+        "source": { "id": null, "name": "ScienceAlert" },
+        "author": "Peter Dockrill",
+        "title": "NASA Spotted The Sun Smiling, And It's The Most Joyous Thing - ScienceAlert",
+        "description": "Sometimes an unexpected smile is all it takes to turn your day around.",
+        "url": "https://www.sciencealert.com/nasa-spotted-the-sun-smiling-and-its-the-most-joyous-thing",
+        "urlToImage": "https://www.sciencealert.com/images/2022/10/SunSmiling.jpg",
+        "publishedAt": "2022-10-28T06:22:38Z",
+        "content": "Sometimes an unexpected smile is all it takes to turn your day around. Well, that kind of cheery surprise doesn't get much bigger than this.\r\nAstronomers at NASA have spotted the Sun beaming a remark… [+1779 chars]"
+    }, {
+        "source": { "id": null, "name": "SciTechDaily" },
+        "author": null,
+        "title": "Scientists Astonished by Strange Material That Can Be Made Like Plastic but Conducts Like Metal - SciTechDaily",
+        "description": "‘Like conductive Play-Doh’: breakthrough could point way to a new class of materials for electronic devices. University of Chicago scientists have discovered a way to create a material that can be made like a plastic, but conducts electricity more like a meta…",
+        "url": "https://scitechdaily.com/scientists-astonished-by-strange-material-that-can-be-made-like-plastic-but-conducts-like-metal/",
+        "urlToImage": "https://scitechdaily.com/images/Plastic-Conducts-Like-Metal.jpg",
+        "publishedAt": "2022-10-28T03:19:18Z",
+        "content": "ByLouise Lerner, University of ChicagoOctober 27, 2022\r\nA group of scientists at the University of Chicago has discovered a way to create a material in which the molecular fragments are jumbled and d… [+7829 chars]"
+    }, {
+        "source": { "id": null, "name": "Nautil.us" },
+        "author": "Jonathan O'Callaghan",
+        "title": "Brightest-Ever Space Explosion Reveals Possible Hints of Dark Matter - Nautilus Magazine",
+        "description": "On Sunday, October 9, Judith Racusin was 35,000 feet in the air, en route to a high-energy astrophysics conference, when the biggest cosmic explosion in history took place. “I landed, looked at my phone, and had dozens of messages,” said Racusin, an astrophys…",
+        "url": "https://nautil.us/brightest-ever-space-explosion-reveals-possible-hints-of-dark-matter-244346/",
+        "urlToImage": "https://assets.nautil.us/sites/3/nautilus/OCallaghan-HERO.png?auto=compress&fm=png&ixlib=php-3.3.1",
+        "publishedAt": "2022-10-27T20:17:03Z",
+        "content": "On Sunday, October 9, Judith Racusin was 35,000 feet in the air, en route to a high-energy astrophysics conference, when the biggest cosmic explosion in history took place. I landed, looked at my pho… [+6457 chars]"
+    }, {
+        "source": { "id": null, "name": "Space.com" },
+        "author": "Joe Rao",
+        "title": "The 1st ever Election Day Blood Moon lunar eclipse is coming on Nov. 8 - Space.com",
+        "description": "This will be the fourth and final lunar eclipse of 2022.",
+        "url": "https://www.space.com/moon-total-eclipse-election-day-nov-8",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/6aob5JJzBZ7QqcCfqYuFqD-1200-80.jpg",
+        "publishedAt": "2022-10-27T20:00:15Z",
+        "content": "Early on Election Day morning, early risers will have an opportunity to observe the November Beaver Moon undergo a total eclipse.  \r\nThis will be the fourth and final lunar eclipse that has interesti… [+8647 chars]"
+    }, {
+        "source": { "id": null, "name": "Knewz.com" },
+        "author": null,
+        "title": "U.S. Volcano That's Been Dormant For More Than 800 Years Showing Signs Of Life - msnNOW",
+        "description": "U.S. Volcano That’s Been Dormant For More Than 800 Years Showing Signs Of Life",
+        "url": "https://knewz.com/united-states-volcano-alaska-magma/",
+        "urlToImage": "https://img-s-msn-com.akamaized.net/tenant/amp/entityid/AA13scjq.img?h=315&w=600&m=6&q=60&o=t&l=f&f=jpg",
+        "publishedAt": "2022-10-27T19:08:33Z",
+        "content": "By David Wetzel\r\n© KnewzNew York (Knewz) A United States volcano thats been dormant for more than 800 years is seeing some action.\r\nResearchers with the Alaska Volcano Observatory and Alaska Satellit… [+2459 chars]"
+    }, {
+        "source": { "id": null, "name": "The Guardian" },
+        "author": "Jessica Murray",
+        "title": "Bumblebees get a buzz out of playing with balls, study finds - The Guardian",
+        "description": "Research shows bees rolling wooden balls despite having no apparent incentive to do so",
+        "url": "https://www.theguardian.com/science/2022/oct/27/bumblebees-playing-wooden-balls-bees-study",
+        "urlToImage": "https://i.guim.co.uk/img/media/740920b95c23736e353ed84b61509ed3bb0bbf81/0_0_3944_2367/master/3944.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=0f33989f107c76aff70419f527dd9d3e",
+        "publishedAt": "2022-10-27T18:29:00Z",
+        "content": "Bumblebees are associated with lives of work rather than play, but researchers have for the first time observed the insects playing with balls for enjoyment, just like humans and dogs.\r\nA team of UK … [+2316 chars]"
+    }, {
+        "source": { "id": "google-news", "name": "Google News" },
+        "author": null,
+        "title": "Attenuated evolution of mammals through the Cenozoic - Science",
+        "description": null,
+        "url": "https://news.google.com/__i/rss/rd/articles/CBMiM2h0dHBzOi8vd3d3LnNjaWVuY2Uub3JnL2RvaS8xMC4xMTI2L3NjaWVuY2UuYWJtNzUyNdIBAA?oc=5",
+        "urlToImage": null,
+        "publishedAt": "2022-10-27T18:09:40Z",
+        "content": null
+    }, {
+        "source": { "id": null, "name": "Phys.Org" },
+        "author": "Adrienne Berard",
+        "title": "Traces of ancient ocean discovered on Mars - Phys.org",
+        "description": "A recently released set of topography maps provides new evidence for an ancient northern ocean on Mars. The maps offer the strongest case yet that the planet once experienced sea-level rise consistent with an extended warm and wet climate, not the harsh, froz…",
+        "url": "https://phys.org/news/2022-10-ancient-ocean-mars.html",
+        "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2022/traces-of-ancient-ocea.jpg",
+        "publishedAt": "2022-10-27T18:03:08Z",
+        "content": "A recently released set of topography maps provides new evidence for an ancient northern ocean on Mars. The maps offer the strongest case yet that the planet once experienced sea-level rise consisten… [+5433 chars]"
+    }, {
+        "source": { "id": null, "name": "Live Science" },
+        "author": "Ben Turner",
+        "title": "Gigantic radiation storms have been pummeling Earth for at least 10000 years and could strike again, tree ring analysis reveals - Livescience.com",
+        "description": "One of the events was 80 times more powerful than the strongest solar flare ever recorded.",
+        "url": "https://www.livescience.com/miyake-events-mystery-deepens",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/QYhikkzg6KsiyntPC5uFFV-1200-80.jpeg",
+        "publishedAt": "2022-10-27T17:45:07Z",
+        "content": "A series of sudden and colossal spikes in radiation levels across Earth's history could have come from a series of unknown, unpredictable and potentially catastrophic cosmic events, a new study has r… [+5456 chars]"
+    }, {
+        "source": { "id": null, "name": "Live Science" },
+        "author": "JoAnna Wendel",
+        "title": "New map of methane 'super-emitters' shows some of the largest methane clouds ever seen - Livescience.com",
+        "description": "A NASA instrument designed to study dust has revealed that some of the largest methane clouds ever seen are floating over the US, Iran and elsewhere.",
+        "url": "https://www.livescience.com/nasa-detects-methane-plumes",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/WdFKrgfCrUf8fvrzKT4JvR-1200-80.jpg",
+        "publishedAt": "2022-10-27T17:42:20Z",
+        "content": "Some of the largest clouds of heat-trapping methane gas ever detected are currently floating over New Mexico, Iran and several other \"super-emitter\" hot spots around the world, according to a new NAS… [+3600 chars]"
+    }, {
+        "source": { "id": null, "name": "ScienceAlert" },
+        "author": "Carly Cassella",
+        "title": "We Thought These Animals Were Silent. Scientists Just Found Their Voices - ScienceAlert",
+        "description": "Commonly assumed to be silent, 53 animals have had their 'voices' added to a family tree of vocalizations in an effort to determine when acoustic communication emerged in evolutionary history.",
+        "url": "https://www.sciencealert.com/we-thought-these-animals-were-silent-scientists-just-found-their-voices",
+        "urlToImage": "https://www.sciencealert.com/images/2022/10/ATuataraLookingAtYou.jpg",
+        "publishedAt": "2022-10-27T17:01:45Z",
+        "content": "Commonly assumed to be silent, 53 animals have had their 'voices' added to a family tree of vocalizations in an effort to determine when acoustic communication emerged in evolutionary history.\r\nThe s… [+2774 chars]"
+    }, {
+        "source": { "id": null, "name": "Space.com" },
+        "author": "Andrew Jones",
+        "title": "These eerie sounds made from a NASA flyby of Jupiter's moon Europa are haunting - Space.com",
+        "description": "An eerie new video allows us to hear what NASA's Juno spacecraft experienced as it made a flyby of Jupiter's icy moon Europa last month.",
+        "url": "https://www.space.com/juno-europa-plasma-wave-eerie-audio",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/ShUgGBDmkArFBD4JzzeUy6-1200-80.jpg",
+        "publishedAt": "2022-10-27T16:00:20Z",
+        "content": "An eerie new video allows us to hear what NASA's Juno spacecraft experienced as it made a flyby of Jupiter's icy moon Europa last month.\r\nThe 11-second-long audio track expresses variations of plasma… [+2296 chars]"
+    }, {
+        "source": { "id": null, "name": "GamePress" },
+        "author": null,
+        "title": "The Problem with Pulmonoscorpios | Jurassic World Alive Wiki - GamePress",
+        "description": "Jurassic World Alive Wiki, Database, News, and Community for the Jurassic World Alive  Player!",
+        "url": "https://gamepress.gg/jurassicworldalive/guide/problem-pulmonoscorpios",
+        "urlToImage": "https://gamepress.gg/jurassicworldalive/sites/jurassicworldalive/files/2022-10/scorpion%20problem.PNG",
+        "publishedAt": "2022-10-27T15:43:52Z",
+        "content": "To get a feel for things, lets start in an unboosted epic format. After browsing through the 87 other epics, I found 6.5 counters to these scorpions. Lets start off with that .5 bit. Red is able to t… [+3856 chars]"
+    }, {
+        "source": { "id": null, "name": "Quanta Magazine" },
+        "author": null,
+        "title": "How Genes Can Leap From Snakes to Frogs - Quanta Magazine",
+        "description": "The discovery of a hot spot for horizontal gene transfer draws attention to the possible roles of parasites and ecology in such changes.",
+        "url": "https://www.quantamagazine.org/how-genes-can-leap-from-snakes-to-frogs-20221027/",
+        "urlToImage": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2050/10/Gene-Transfer-Hotspots_1200_Social.webp",
+        "publishedAt": "2022-10-27T14:01:47Z",
+        "content": "When Genes Wander\r\nHorizontal transfer is commonplace in bacteria. The teeming single-celled organisms that populate nearly every cranny on the planet pick up genes from their environment as easily a… [+11036 chars]"
+    }, {
+        "source": { "id": null, "name": "Space.com" },
+        "author": "Stefanie Waldek",
+        "title": "Something spooky is happening at the edge of the solar system - Space.com",
+        "description": "The heliopause, or the boundary between the heliosphere and the interstellar medium, appears to be rippling and creating oblique angles in an unexpected manner.",
+        "url": "https://www.space.com/heliopause-unusual-ripples-voyager",
+        "urlToImage": "https://cdn.mos.cms.futurecdn.net/mihJRtvXMTVqCMbvkcAxXJ-1200-80.png",
+        "publishedAt": "2022-10-27T14:00:43Z",
+        "content": "Just in time for Halloween, scientists have discovered something spooky and strange occurring at the edge of the solar system: The heliopause — the boundary between the heliosphere (the bubble of sol… [+2783 chars]"
+    }]
+}

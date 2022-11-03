@@ -1,0 +1,167 @@
+{
+    "status": "ok",
+    "totalResults": 64,
+    "articles": [{
+        "source": { "id": "reuters", "name": "Reuters" },
+        "author": null,
+        "title": "Exxon's record-smashing Q3 profit nearly matches Apple's - Reuters.com",
+        "description": "Exxon Mobil Corp <a href=\"https://www.reuters.com/companies/XOM.N\" target=\"_blank\">(XOM.N)</a> on Friday smashed expectations as soaring energy prices fueled a record-breaking quarterly profit, nearly matching that of tech giant Apple.",
+        "url": "https://www.reuters.com/business/energy/exxons-record-smashing-q3-profit-nearly-matches-apples-2022-10-28/",
+        "urlToImage": "https://www.reuters.com/resizer/xvaul6iPVj3UDiaMxSJZ8o8RORk=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/UDPHYWN655IKPNW3DBU2V37V4Q.jpg",
+        "publishedAt": "2022-10-28T22:05:00Z",
+        "content": "HOUSTON, Oct 28 (Reuters) - Exxon Mobil Corp (XOM.N) on Friday smashed expectations as soaring energy prices fueled a record-breaking quarterly profit, nearly matching that of tech giant Apple.\r\nIts … [+3571 chars]"
+    }, {
+        "source": { "id": null, "name": "CNBC" },
+        "author": "Alex Harring, Tanaya Macheel",
+        "title": "Dow closes 800 points higher on Friday, registers fourth straight week of gains - CNBC",
+        "description": "The three major indexes notched sizeable weekly gains.",
+        "url": "https://www.cnbc.com/2022/10/27/stock-market-futures-open-to-close-news.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107142824-1666988004965-a8_img_100_99_112_1917655_1000-1666987897341.jpg?v=1666988276&w=1920&h=1080",
+        "publishedAt": "2022-10-28T21:33:00Z",
+        "content": "Stocks rose on Friday despite a tumble in Amazon shares after economic data pointed to slowing inflation and a steady consumer.\r\nThe Dow Jones Industrial Average closed 828.52 points, or about 2.6%, … [+2637 chars]"
+    }, {
+        "source": { "id": null, "name": "CNBC" },
+        "author": "Jordan Novet",
+        "title": "Big Tech falters on dreary earnings and forecasts for Q4— Meta has worst week ever, Amazon tumbles 13% - CNBC",
+        "description": "While Apple gave Wall Street a reason to cheer, the other Big Tech companies showed how challenging the economic environment has become for their businesses.",
+        "url": "https://www.cnbc.com/2022/10/28/big-tech-falters-on-q3-2022-results-as-meta-has-worst-week-ever.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107010915-1643915967672-gettyimages-1178141765-921a2859.jpeg?v=1666991321&w=1920&h=1080",
+        "publishedAt": "2022-10-28T21:08:41Z",
+        "content": "Other than Apple, it was a brutal earnings week for Big Tech.\r\nAlphabet, Amazon, Meta and Microsoft combined lost over $350 billion in market cap after offering concerning commentary for the third qu… [+3554 chars]"
+    }, {
+        "source": { "id": null, "name": "Benzinga" },
+        "author": "Melanie Schaffer",
+        "title": "Dogecoin Surges, Bitcoin And Ethereum Prepare To Soar: A Look At The Cryptos Into The Weekend - Bitcoin - Benzinga",
+        "description": "Bitcoin (CRYPTO: BTC) was spiking up about 1.8% higher during Friday’s 24-hour trading session in tandem with the S&P 500, which was surging over 2%.",
+        "url": "https://www.benzinga.com/markets/cryptocurrency/22/10/29465074/dogecoin-surges-bitcoin-and-ethereum-prepare-to-soar-a-look-at-the-cryptos-into-the-weeken",
+        "urlToImage": "https://cdn.benzinga.com/files/images/story/2022/10/28/dogeoin.bitcoin.ethereumshutterstock_1968480388.jpg?width=1200&height=800&fit=crop",
+        "publishedAt": "2022-10-28T20:03:59Z",
+        "content": "BitcoinBTC/USD was spiking up about 1.8% higher during Fridays 24-hour trading session in tandem with the S&amp;P 500, which was surging over 2%.\r\nEthereumETH/USD was also rising more than 2%, while … [+4613 chars]"
+    }, {
+        "source": { "id": null, "name": "YouTube" },
+        "author": null,
+        "title": "How will hydrogen power our future? - Sky News",
+        "description": "Sky's Ed Conway takes a deep dive into the world of hydrogen and looks at how it will power our future as the world tries to pivot away from gas and oil.  As...",
+        "url": "https://www.youtube.com/watch?v=GZrPNl8FnzQ",
+        "urlToImage": "https://i.ytimg.com/vi/GZrPNl8FnzQ/maxresdefault.jpg",
+        "publishedAt": "2022-10-28T19:07:24Z",
+        "content": null
+    }, {
+        "source": { "id": "reuters", "name": "Reuters" },
+        "author": null,
+        "title": "Oil giants' massive profits revive calls for windfall taxes - Reuters",
+        "description": "Global energy giants including Exxon Mobil Corp <a href=\"https://www.reuters.com/companies/XOM.N\" target=\"_blank\">(XOM.N)</a> and Chevron Corp <a href=\"https://www.reuters.com/companies/CVX.N\" target=\"_blank\">(CVX.N)</a> posted another round of huge quarterly…",
+        "url": "https://www.reuters.com/business/energy/wrapup-global-oil-giants-rake-massive-profits-third-quarter-2022-10-28/",
+        "urlToImage": "https://www.reuters.com/resizer/na_DsEJjoFlrlOBVTMGpopjHbk0=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/QZUAQ2INZBKLHG5LACEZIIRYGE.jpg",
+        "publishedAt": "2022-10-28T18:31:00Z",
+        "content": "Oct 28 (Reuters) - Global energy giants including Exxon Mobil Corp (XOM.N) and Chevron Corp (CVX.N) posted another round of huge quarterly profits, benefiting from surging natural gas and fuel prices… [+4303 chars]"
+    }, {
+        "source": { "id": null, "name": "SFGate" },
+        "author": "Joshua Bote",
+        "title": "Bay Area Facebook workers reportedly stressed as stock tanks - SFGATE",
+        "description": "Workers reportedly must “put in 200% effort” within three months — or leave.",
+        "url": "https://www.sfgate.com/tech/article/facebook-worker-anxiety-meta-stock-17541887.php",
+        "urlToImage": "https://s.hdnux.com/photos/01/16/47/10/20607523/4/rawImage.jpg",
+        "publishedAt": "2022-10-28T18:22:17Z",
+        "content": "Workers at the Bay Area-based tech behemoth Meta, the owners of Facebook, Instagram and the struggling Meta Quest VR devices, are reportedly feeling the pinch as the company's stock falters dramatica… [+1800 chars]"
+    }, {
+        "source": { "id": null, "name": "CNBC" },
+        "author": "Sarah O'Brien",
+        "title": "54% of adults say they have stopped or reduced their retirement savings contributions due to inflation, study shows - CNBC",
+        "description": "If you're among the retirement savers who has had to reduce your contributions or dip into your account early, here are some tips for getting back on track.",
+        "url": "https://www.cnbc.com/2022/10/28/inflation-causes-54percent-of-adults-trimming-or-stopping-retirement-savings.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107104116-1660590301443-gettyimages-1415035613-l1002589_f7f2e8ae-9fe5-4a55-905b-145c7287285c.jpeg?v=1666979233&w=1920&h=1080",
+        "publishedAt": "2022-10-28T17:47:13Z",
+        "content": "It's no secret that higher prices are taking a bite out of household budgets.\r\nThey also appear to have made some people change their retirement savings habits: Inflation has caused 54% of adults to … [+3382 chars]"
+    }, {
+        "source": { "id": "the-wall-street-journal", "name": "The Wall Street Journal" },
+        "author": "Veronica Dagher",
+        "title": "Treasury Sold $500 Million in I Bonds Friday Morning, on Final Day to Lock in 9.62% Rate - The Wall Street Journal",
+        "description": "The interest rate on inflation-adjusted I Bonds is expected to drop to around 6.47% starting Nov. 1",
+        "url": "https://www.wsj.com/articles/i-bond-treasury-interest-rate-deadline-11666912002",
+        "urlToImage": "https://images.wsj.net/im-653629/social",
+        "publishedAt": "2022-10-28T17:35:00Z",
+        "content": "Oct. 28 is investors last chance to buy I Bonds that earn a 9.62% interest rate. Yet a surge in demand for the inflation-adjusted bonds has overwhelmed the TreasuryDirect site and the Treasury Depart… [+415 chars]"
+    }, {
+        "source": { "id": null, "name": "YouTube" },
+        "author": null,
+        "title": "Dow's performance a harbinger of what's to come in the next few years, says Cerity's Lebenthal - CNBC Television",
+        "description": "CNBC's Halftime Report Investment Committee discuss the biggest market stories from the week, including what's behind the latest move in the Dow.",
+        "url": "https://www.youtube.com/watch?v=QI4ITSi_MeA",
+        "urlToImage": "https://i.ytimg.com/vi/QI4ITSi_MeA/maxresdefault.jpg",
+        "publishedAt": "2022-10-28T17:00:03Z",
+        "content": null
+    }, {
+        "source": { "id": null, "name": "New York Post" },
+        "author": "Ariel Zilber",
+        "title": "Jeff Bezos' net worth plummets by $9 billion as Amazon stock plunges - New York Post ",
+        "description": "Amazon shares dropped by as much as 21% in after-hours trading on Thursday after the company predicted sluggish sales for the holiday shopping season.",
+        "url": "https://nypost.com/2022/10/28/jeff-bezos-net-worth-plummets-by-12-billion-as-amazon-stock-plunges/",
+        "urlToImage": "https://nypost.com/wp-content/uploads/sites/2/2022/10/amazon-comp-1.jpg?quality=75&strip=all&w=1024",
+        "publishedAt": "2022-10-28T15:57:00Z",
+        "content": "Jeff Bezos was $7.5 billion poorer on Friday as Amazon stock fell by nearly 7% in the wake of a less-than-stellar earnings report.\r\nAmazon shares had dropped by as much as 21% in after-hours trading … [+2704 chars]"
+    }, {
+        "source": { "id": null, "name": "Daily Beast" },
+        "author": "Noah Kirsch",
+        "title": "Elon Musk Pledges to Spend First Day as Twitter Boss Helping User Named Catturd - The Daily Beast",
+        "description": "The MAGA-affiliated user claimed their account had been suppressed.",
+        "url": "https://www.thedailybeast.com/elon-musk-pledges-to-spend-first-day-as-twitter-boss-helping-user-named-catturd",
+        "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_3078,w_5472,x_0,y_105/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1666970696/GettyImages-1243763548_rghdvl",
+        "publishedAt": "2022-10-28T15:55:53Z",
+        "content": "Elon Musk ascended the throne at Twitter on Thursday, and after swiftly axing the companys top leadership, he tweeted, the bird is freed. His very next message: pledging to assist an account named @c… [+493 chars]"
+    }, {
+        "source": { "id": null, "name": "CNBC" },
+        "author": "Jeff Marks",
+        "title": "We're exiting a drug stock for a nice gain and putting some of that money to work elsewhere - CNBC",
+        "description": "We continue to like health care as a defensive area of the market.",
+        "url": "https://www.cnbc.com/2022/10/28/were-exiting-a-drug-stock-for-a-nice-gain-and-putting-some-of-that-money-to-work-elsewhere.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107141822-1666881087875-gettyimages-1437011463-dscf7907_585a446d-a53a-477e-97d7-55056827299c.jpeg?v=1666971051&w=1920&h=1080",
+        "publishedAt": "2022-10-28T15:30:51Z",
+        "content": null
+    }, {
+        "source": { "id": null, "name": "Fox Business" },
+        "author": "Houston Keene",
+        "title": "Ousted Twitter top lawyer made calls to ban Trump, censor Hunter Biden laptop story - Fox Business",
+        "description": "Twitter's top lawyer, Vijaya Gadde, who was fired on Thursday, made the calls to censor the New York Post's story on Hunter Biden's laptop and to ban former President Donald Trump.",
+        "url": "https://www.foxbusiness.com/politics/ousted-twitter-top-lawyer-made-calls-to-ban-trump-censor-hunter-biden-laptop-story",
+        "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2022/10/0/0/GettyImages-1177538335.jpg?ve=1&tl=1",
+        "publishedAt": "2022-10-28T15:05:22Z",
+        "content": "Twitter’s newly ousted\r\n top lawyer, Vijaya Gadde, made the calls to ban former President Donald Trump from the platform and to censor the Hunter Biden laptop story.\r\nGadde lost her job, alongside CE… [+2072 chars]"
+    }, {
+        "source": { "id": null, "name": "The Detroit News" },
+        "author": ", The Detroit News",
+        "title": "Stellantis offers buyouts to certain salaried employees in tech transformation move - Detroit News",
+        "description": "The buyouts come after Ford Motor Co. in August said it was eliminating 3,000 jobs, including 1,000 contractors, mostly in Metro Detroit.",
+        "url": "https://www.detroitnews.com/story/business/autos/chrysler/2022/10/28/stellantis-offers-buyouts-to-certain-salaried-employees/69599337007/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2021/01/19/PDTN/ff9b1763-7c17-4bfc-9321-4719dd1afdab-Stellantis-3.jpg?auto=webp&crop=1279,720,x0,y26&format=pjpg&width=1200",
+        "publishedAt": "2022-10-28T15:01:52Z",
+        "content": "Another Detroit Three automaker has announced workforce reduction plans amid transformations toward cleaner, more technology-packed vehicles.\r\nJeep maker Stellantis NV on Friday said it has offered c… [+1950 chars]"
+    }, {
+        "source": { "id": null, "name": "Yahoo Entertainment" },
+        "author": "Margaret Jackson",
+        "title": "Quick To Enter the Market, Institutional Investors Now Shedding Single-Family Home Rentals - Yahoo Finance",
+        "description": "As housing prices tumble across the country, institutional investors that had snapped up properties during a pandemic-induced increase in rental rates are...",
+        "url": "https://finance.yahoo.com/news/quick-enter-market-institutional-investors-142959250.html",
+        "urlToImage": "https://media.zenfs.com/en/Benzinga/ac917babf6372896c85a0e2429d3fbf6",
+        "publishedAt": "2022-10-28T14:29:59Z",
+        "content": "As housing prices tumble across the country, institutional investors that had snapped up properties during a pandemic-induced increase in rental rates are now unloading their properties.\r\nNationally,… [+3832 chars]"
+    }, {
+        "source": { "id": null, "name": "Benzinga" },
+        "author": "Henry Khederian",
+        "title": "What's Going On With Apple Shares - Apple (NASDAQ:AAPL) - Benzinga",
+        "description": "Apple Inc (NASDAQ: AAPL) shares are trading higher by 4.40% to $151.17 Friday morning after the company reported better-than-expected fourth-quarter results and reported year-over-year revenue growth",
+        "url": "https://www.benzinga.com/trading-ideas/movers/22/10/29458786/whats-going-on-with-apple-shares",
+        "urlToImage": "https://cdn.benzinga.com/files/images/story/2022/10/28/entrepreneur-1340649.jpg?width=1200&height=800&fit=crop",
+        "publishedAt": "2022-10-28T13:57:21Z",
+        "content": "Apple IncAAPL shares are trading higher by 4.40% to $151.17 Friday morning after the company reported better-than-expected fourth-quarter results and reported year-over-year revenue growth across mul… [+615 chars]"
+    }, {
+        "source": { "id": "usa-today", "name": "USA Today" },
+        "author": "Natalie Neysa Alund, USA TODAY",
+        "title": "DreamFields Brands faces lawsuit saying weed isn't strong enough - USA TODAY",
+        "description": "The class action suit was filed against DreamFields Brands, Inc. for allegedly falsely claiming that their products have a high THC component.",
+        "url": "https://www.usatoday.com/story/money/2022/10/28/weed-company-sued-not-strong-enough-marijuana/10615317002/",
+        "urlToImage": "https://www.gannett-cdn.com/presto/2022/10/27/USAT/8518b33b-5f0b-4bc9-8a6d-fc04aeb462a6-Jeeter.png?auto=webp&crop=456,257,x0,y149&format=pjpg&width=1200",
+        "publishedAt": "2022-10-28T13:53:06Z",
+        "content": "A California marijuana company is being sued for false advertising after two dissatisfied customers said its weed was not strong enough.\r\nThe class action lawsuit was filed in Los Angeles County Supe… [+2223 chars]"
+    }]
+}
