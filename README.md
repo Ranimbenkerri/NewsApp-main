@@ -1,5 +1,5 @@
 # News-app-main
- News App made with flutter using APIs 
+ News App made with flutter using APIs and Bloc with cubit 
  
  
  * Light mode:
