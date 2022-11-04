@@ -18,4 +18,4 @@
 # Used packege : 
 bloc for state management .
 
-And()
+And(Flutter_lints,Dio,Conditional_builder_null_safety,Hexcolor)
